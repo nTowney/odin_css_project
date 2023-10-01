@@ -1,9 +1,26 @@
 
 
-div {
+.style-01 {
     color: white;
     background-color: red;
     text-align:center;
     font-size: 32px;
+    font-weight: bold;
+}
+.odd-numbers{
+    background-color: #FFC0CB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.number-3{
+    font-size: 24px;
+}
+#number-2{
+    color: #0000ff;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#number-4{
+    background-color: #90EE90;
+    font-size: 24px;
     font-weight: bold;
 }
